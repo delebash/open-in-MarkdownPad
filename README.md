@@ -5,7 +5,7 @@ You need to install the app 'LightPaper'.<br>
 Visit this site.<br>
 http://clockworkengine.com/lightpaper-mac/
 
-Simply enter in the command <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>M</kbd> top
+Simply enter in the command <kbd>alt</kbd>+<kbd>meta</kbd>+<kbd>M</kbd> top
 open the current
 file into
 lightpaper.
