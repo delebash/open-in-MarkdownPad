@@ -1,22 +1,20 @@
 <idea-plugin version="2">
-    <id>com.vexus2.intellij.marked</id>
-    <name>Open in Marked</name>
+    <id>com.skiftio.intellij.lightpaper</id>
+    <name>Open in LightPaper</name>
     <version>0.2</version>
-    <vendor email="hikaru.tooyama@gmail.com" url="http://twitter.com/vexus2">Vexus2</vendor>
+    <vendor email="shawn@skift.io" url="https://twitter.com/skiftcreative">
+        Skift Creative</vendor>
 
     <description><![CDATA[
-      Open markdown file into Markdown Viewer Marked.<br>
+      Open markdown file into Markdown Viewer LightPaper.<br>
       Default keymap is "Ctrl+Alt+M".<br>
-      You need to install 'Marked'.<br>
+      You need to install 'LightPaper'.<br>
       Visit this site.<br>
-      http://markedapp.com/
+      http://clockworkengine.com/lightpaper-mac/
       ]]></description>
 
     <change-notes><![CDATA[
       version 0.2<br>
-      Fixed bug.<br>
-
-      version 0.1<br>
       Initial release.<br>
       ]]>
     </change-notes>
@@ -36,10 +34,10 @@
 
     <actions>
 
-        <action id="openInMarked"
-                class="com.vexus2.intellij.marked.Marked"
-                text="Open Markdown in Marked"
-                description="Open Markdown file into Marked">
+        <action id="openInLightPaper"
+                class="com.skiftio.intellij.lightpaper.LightPaper"
+                text="Open Markdown in LightPaper"
+                description="Open Markdown file into LightPaper">
             <add-to-group
                     group-id="ToolsMenu"
                     anchor="last"/>
