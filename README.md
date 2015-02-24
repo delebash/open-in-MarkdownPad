@@ -1,3 +1,5 @@
+##### Note - I am not easily to maintain this much anymore (not that there is much to maintain) as I no longer have a Mac. But if anyone is interested in doing anything with it, let me know.
+
 # Open into LightPaper Markdown Editor
 
 Open your current *.md files into the Markdown Viewer LightPaper.<br>
